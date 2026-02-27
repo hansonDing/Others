@@ -1,0 +1,19 @@
+# 基础依赖
+numpy>=1.24.0
+
+# 向量数据库
+chromadb>=0.4.0
+
+# Embedding 模型
+sentence-transformers>=2.2.0
+
+# SQL 解析和格式化
+sqlparse>=0.4.4
+
+# 工具库
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# 可选：用于 Web API
+# fastapi>=0.100.0
+# uvicorn>=0.23.0
